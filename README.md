@@ -13,7 +13,7 @@ https://scotch.io/tutorials/setting-up-webpack-for-any-project?utm_source=newsle
 
 
 # Used Packages
-	* Global Node Packages: yarn
+	Global Node Packages: yarn
 
 # Webpack: 
 	* html-webpack-plugin: Includes js bundle into body element of given template
